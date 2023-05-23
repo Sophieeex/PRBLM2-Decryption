@@ -7,4 +7,14 @@
 plain_text = input("Type your string input: ")
 
 # dictionary for converting special characters into vowels
+
+converter = {
+    "*": "a",
+    "&": "e",
+    "#": "i",
+    "+": "o",
+    "!": "u",
+}
+
+
 # checking each character and printing an output
