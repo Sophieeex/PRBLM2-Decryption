@@ -3,5 +3,8 @@
 # Laboratory Program: Assignment #3: decryption
 
 # collect string input from user 
+
+plain_text = input("Type your string input: ")
+
 # dictionary for converting special characters into vowels
 # checking each character and printing an output
